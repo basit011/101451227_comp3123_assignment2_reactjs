@@ -58,7 +58,7 @@ function EmployeeDetails() {
           </div>
 
           <button className="btn btn-primary" onClick={() => navigate('/employee')}>
-            Back{" "}
+            Back
           </button>
         </div>
       </div>
